@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r3quie
 - 👀 I’m interested in bash, linux, pentesting
-- 🌱 I’m currently learning pentesting
+- 🌱 I’m currently learning pentesting and rust
 
 
 <!---
