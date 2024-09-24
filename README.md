@@ -4,7 +4,7 @@
 - 🚀 I daily drive W11, Arch and Debian. I run an Arch server and two Debian servers.
 - 
 
-- Checkout my repo r3quie/edhcarddealer @ www.r3quie.com
+- Checkout my repo r3quie/edhcarddealer @ www.r3quie.com (Django) or [vps.r3quie.com](https://vps.r3quie.com)
 - Checkout my repo r3quie/go-lhuty @ [cpi.pavelkadera.cz](https://cpi.pavelkadera.cz)
 
 
