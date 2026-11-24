@@ -1,1 +1,1 @@
-a hobbyist programmer turned vibe-coder
+once a hobbyist programmer, turned vibe-coder
